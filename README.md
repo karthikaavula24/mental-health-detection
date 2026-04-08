@@ -1,2 +1,2 @@
-# mental-health-detection
-Social Media Mental Health Detection using NLP
+# mental-health-detection project links
+Github Repository :https://github.com/karthikaavula24/mental-health-detection
